@@ -8,7 +8,7 @@ Building production systems that serve real users and generate revenue.
 
 <br>
 
-[Email](mailto:mateusz.nawratek@outlook.com) &nbsp;&middot;&nbsp; [LinkedIn](https://www.linkedin.com/in/mateusz-nawratek-909752356) &nbsp;&middot;&nbsp; Gliwice, Poland &nbsp;&middot;&nbsp; Open to remote
+[Email](mailto:mateusz.nawratek@outlook.com) &nbsp;&middot;&nbsp; [LinkedIn](https://www.linkedin.com/in/mateusz-nawratek-909752356) &nbsp;&middot;&nbsp; Gliwice, Poland / Granada, Spain &nbsp;&middot;&nbsp; Open to remote
 
 </div>
 
