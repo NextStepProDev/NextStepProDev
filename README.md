@@ -82,8 +82,8 @@ The result: one developer, two production applications with enterprise-grade fea
 
 | | |
 |---|---|
+| **2025 – present** | Software Developer — building & maintaining production applications |
 | **2022 – 2024** | Java Backend Developer Course — **Zajavka** |
-| **2025 – present** | Full-Stack Developer — **Next Step Pro Climbing** (own product) |
 | **2020 – present** | Founder — **Next Step Pro Climbing** (climbing school) |
 | **2014 – 2019** | Climbing Instructor — various organizations |
 
