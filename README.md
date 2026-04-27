@@ -88,10 +88,10 @@ The result: one developer, two production applications with enterprise-grade fea
 ```json
 {
   "experience": [
-    {"period": "2025 – present", "role": "Software Developer",      "detail": "building & maintaining production applications"},
-    {"period": "2022 – 2024",    "role": "Java Backend Course",      "detail": "Zajavka — Spring Boot, JPA, testing, Docker"},
-    {"period": "2020 – present", "role": "Founder",                  "detail": "Next Step Pro Climbing (climbing school)"},
-    {"period": "2014 – 2019",    "role": "Climbing Instructor",      "detail": "various organizations"}
+    {"period": "2025 – present", "role": "Software Developer", "detail": "building & maintaining production applications"},
+    {"period": "2022 – 2024", "role": "Java Backend Course", "detail": "Zajavka — Spring Boot, JPA, testing, Docker"},
+    {"period": "2020 – present", "role": "Founder", "detail": "Next Step Pro Climbing (climbing school)"},
+    {"period": "2014 – 2019", "role": "Climbing Instructor", "detail": "various organizations"}
   ],
   "languages": ["Polish (native)", "English (B2)", "Spanish (B2)"],
   "open_to": "opportunities in Poland, Spain, and remote worldwide"
