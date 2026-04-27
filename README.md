@@ -1,5 +1,3 @@
-<div align="center">
-
 ```java
 @Developer
 @Location({"Gliwice, PL", "Granada, ES"})
@@ -9,6 +7,8 @@ public class MateuszNawratek {
     // Building production systems that serve real users
 }
 ```
+
+<div align="center">
 
 [Email](mailto:mateusz.nawratek@outlook.com) &nbsp;&middot;&nbsp; [LinkedIn](https://www.linkedin.com/in/mateusz-nawratek-909752356)
 
