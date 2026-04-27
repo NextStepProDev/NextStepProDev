@@ -2,7 +2,7 @@
 @Developer
 @Location({"Gliwice, PL", "Granada, ES"})
 @Status("Open to remote opportunities")
-public class MateuszNawratek {
+public class MateuszNawratek implements Supplier<ProductionApp> {
     // Java Backend Developer
     // Building production systems that serve real users
 }
