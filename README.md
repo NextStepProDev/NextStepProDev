@@ -84,19 +84,15 @@ The result: one developer, two production applications with enterprise-grade fea
 
 ## `// BACKGROUND`
 
+```json
+{
+  "experience": [
+    {"period": "2025 – present", "role": "Software Developer",      "detail": "building & maintaining production applications"},
+    {"period": "2022 – 2024",    "role": "Java Backend Course",      "detail": "Zajavka — Spring Boot, JPA, testing, Docker"},
+    {"period": "2020 – present", "role": "Founder",                  "detail": "Next Step Pro Climbing (climbing school)"},
+    {"period": "2014 – 2019",    "role": "Climbing Instructor",      "detail": "various organizations"}
+  ],
+  "languages": ["Polish (native)", "English (B2)", "Spanish (B2)"],
+  "open_to": "opportunities in Poland, Spain, and remote worldwide"
+}
 ```
-2025 – present    Software Developer — building & maintaining production applications
-2022 – 2024       Java Backend Developer Course — Zajavka
-2020 – present    Founder — Next Step Pro Climbing (climbing school)
-2014 – 2019       Climbing Instructor — various organizations
-```
-
----
-
-<div align="center">
-
-**Languages:** Polish (native) &middot; English (B2) &middot; Spanish (B2)
-
-**Open to opportunities in Poland, Spain, and remote worldwide.**
-
-</div>
