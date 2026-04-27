@@ -5,6 +5,7 @@
 public class MateuszNawratek implements Supplier<ProductionApp> {
     // Java Backend Developer
     // Building production systems that serve real users
+    // TODO: find a team where I can keep growing as an engineer
 }
 ```
 
